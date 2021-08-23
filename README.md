@@ -14,6 +14,6 @@ Practice Python and SQL skills. Application of key concepts such as classes, def
 This was the final project challenge on one of the JetBrains HyperSkill python developer courses.
 https://hyperskill.org/tracks/2
 
-## To do
+### To do
 
   - Change code so that Luhn algorithim is defined as a function. This will enable the code to become more concise.
